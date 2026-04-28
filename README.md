@@ -90,9 +90,18 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
 
 ### 📬 Connect With Me  
 
-<a href="https://linkedin.com/in/mohamed-hazem" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="60" rx="8" fill="#0A66C2"></rect>
+  
+  <!-- LinkedIn Icon -->
+  <rect x="15" y="15" width="30" height="30" fill="white" rx="4"></rect>
+  <text x="30" y="38" font-size="18" font-family="Arial" fill="#0A66C2" text-anchor="middle" font-weight="bold">in</text>
+  
+  <!-- Text -->
+  <text x="120" y="38" font-size="20" font-family="Arial" fill="white" text-anchor="middle" font-weight="bold">
+    LINKEDIN
+  </text>
+</svg>
 <a href="mailto:mohamedhazemeltaweel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
