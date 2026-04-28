@@ -1,8 +1,9 @@
 
 
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:1E88E5&height=180&section=header&text=Mohamed%20Hazem&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" alt="Mohamed Hazem Header" />
+ <img src="https://github.com/user-attachments/assets/266b76a1-8ebb-49ba-829f-c6f6db946c4b" width="100%" alt="Ahmed Elgohary Header" />
 
   <h1 style="font-size: 36px; color: #4FC3F7; font-weight: bold; margin-top: 10px;">
     👋 Hi, I'm Mohamed Hazem
@@ -98,7 +99,7 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
 <a href="https://github.com/mohamedhazem14" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="[tel:+201148943436](https://wa.me/201148943436)" target="_blank">
+<a href="https://wa.me/201148943436" target="_blank">
   <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
@@ -110,7 +111,4 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
   ⭐ <em>“Data is the new science – AI gives it meaning.”</em>
 </p>
 
-<!-- Same wave footer as header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:4FC3F7&height=100&section=footer" width="100%" />
 </div>
