@@ -102,6 +102,8 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
     LINKEDIN
   </text>
 </svg>
+<img width="220" height="60" alt="download" src="https://github.com/user-attachments/assets/d52ce7b7-1ff8-4b42-a566-814b3fc447e7" />
+
 <a href="mailto:mohamedhazemeltaweel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
