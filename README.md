@@ -95,10 +95,10 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
 <a href="mailto:mohamedhazemeltaweel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/mohamedhazem" target="_blank">
+<a href="https://github.com/mohamedhazem14" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="tel:+201148943436" target="_blank">
+<a href="[tel:+201148943436](https://wa.me/201148943436)" target="_blank">
   <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
