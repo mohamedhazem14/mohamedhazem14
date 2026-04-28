@@ -93,7 +93,7 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
 <a href="https://www.linkedin.com/in/mohamed-hazem-74001a2b6/" target="_blank">
 <img width="115" alt="image" src="https://github.com/user-attachments/assets/90b623f8-6b96-4c9e-9c2c-4a69563dca4b" />
 </a>
-<a href="mailto:mohamedhazemeltaweel@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedhazemeltaweel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/mohamedhazem14" target="_blank">
