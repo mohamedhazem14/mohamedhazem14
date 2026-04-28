@@ -90,20 +90,9 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
 
 ### 📬 Connect With Me  
 
-<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="220" height="60" rx="8" fill="#0A66C2"></rect>
-  
-  <!-- LinkedIn Icon -->
-  <rect x="15" y="15" width="30" height="30" fill="white" rx="4"></rect>
-  <text x="30" y="38" font-size="18" font-family="Arial" fill="#0A66C2" text-anchor="middle" font-weight="bold">in</text>
-  
-  <!-- Text -->
-  <text x="120" y="38" font-size="20" font-family="Arial" fill="white" text-anchor="middle" font-weight="bold">
-    LINKEDIN
-  </text>
-</svg>
-<img width="220" height="60" alt="download" src="https://github.com/user-attachments/assets/d52ce7b7-1ff8-4b42-a566-814b3fc447e7" />
-
+<a href="https://www.linkedin.com/in/mohamed-hazem-74001a2b6/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/00eb1dbb-e6a0-4a84-b69f-ba0f8e867724" width="816" alt="banner" />
+</a>
 <a href="mailto:mohamedhazemeltaweel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
