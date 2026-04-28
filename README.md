@@ -89,9 +89,10 @@ I am an AI Engineer specializing in **Data Science** and **Natural Language Proc
 <div align="center">
 
 ### 📬 Connect With Me  
+<img width="115" alt="image" src="https://github.com/user-attachments/assets/90b623f8-6b96-4c9e-9c2c-4a69563dca4b" />
 
 <a href="https://www.linkedin.com/in/mohamed-hazem-74001a2b6/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/00eb1dbb-e6a0-4a84-b69f-ba0f8e867724" width="816" alt="banner" />
+  <img src="https://github.com/user-attachments/assets/00eb1dbb-e6a0-4a84-b69f-ba0f8e867724" width="16" alt="banner" />
 </a>
 <a href="mailto:mohamedhazemeltaweel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
