@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Engineer;LLMs+%26+RAG+%26+NLP;Building+real-world+AI+solutions" alt="Typing SVG" />
+</p>
+
 # Hi, I'm Mohamed Hazem 👋
 
 **AI Engineer | LLMs, RAG & NLP**
