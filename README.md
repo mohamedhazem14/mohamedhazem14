@@ -4,8 +4,6 @@
 
 # Hi, I'm Mohamed Hazem 👋
 
-# Hi, I'm Mohamed Hazem 👋
-
 **AI Engineer | LLMs, RAG & NLP**
 
 I build intelligent, data-driven systems with Machine Learning and Large Language Models, and turn them into working, real-world applications. My background is Data Science (B.Sc. Computer Science, CIC, 2025), and my current focus is LLM engineering: Transformers, Retrieval-Augmented Generation (RAG), AI agents, and deployment.
