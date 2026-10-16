@@ -1,4 +1,8 @@
-<img width="115" alt="image" src="https://github.com/user-attachments/assets/90b623f8-6b96-4c9e-9c2c-4a69563dca4b" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/266b76a1-8ebb-49ba-829f-c6f6db946c4b" width="100%" alt="Mohamed Hazem header" />
+</div>
+
+# Hi, I'm Mohamed Hazem 👋
 
 # Hi, I'm Mohamed Hazem 👋
 
