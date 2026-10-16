@@ -1,114 +1,83 @@
+# Hi, I'm Mohamed Hazem 👋
 
+**AI Engineer | LLMs, RAG & NLP**
 
-
-<div align="center">
-
- <img src="https://github.com/user-attachments/assets/266b76a1-8ebb-49ba-829f-c6f6db946c4b" width="100%" alt="Ahmed Elgohary Header" />
-
-  <h1 style="font-size: 36px; color: #4FC3F7; font-weight: bold; margin-top: 10px;">
-    👋 Hi, I'm Mohamed Hazem
-  </h1>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Role-AI%20Engineer-3b82f6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Field-Data%20Science%20%26%20NLP-22c55e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Focus-Python%20%7C%20ML%20%7C%20LLMs-181717?style=for-the-badge" />
-  </p>
-
-</div>
+I build intelligent, data-driven systems with Machine Learning and Large Language Models, and turn them into working, real-world applications. My background is Data Science (B.Sc. Computer Science, CIC, 2025), and my current focus is LLM engineering: Transformers, Retrieval-Augmented Generation (RAG), AI agents, and deployment.
 
 ---
 
-### 🧠 About Me  
+## 💼 Experience
 
-I am an AI Engineer specializing in **Data Science** and **Natural Language Processing (NLP)**. I have strong experience in **Python**, **Machine Learning**, and building end-to-end data pipelines. I enjoy turning raw data into actionable insights using techniques like feature engineering, hyperparameter tuning, and ensemble methods. On the NLP side, I work with NLTK, spaCy, TF‑IDF, and cosine similarity to build intelligent systems (recommendation engines, text classification). I am currently diving deeper into deep learning and transformer models. My goal is to create scalable AI solutions that deliver real business impact. I thrive on challenges that push me to grow both professionally and personally, and I’m always seeking opportunities to apply new technologies.
-
-📍 Based in **New Cairo, Egypt**
-
----
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <!-- Main Stack (same icons style as example) -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,mysql,git,github" />
-</p>
-
-<p align="center">
-  <!-- Data Science & ML badges (matching the example's badge style) -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-8CA1AF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+- **LLM Engineer Intern**, Edrak for AI (Aug 2026 – Oct 2026): worked with Transformers and LLMs, built RAG pipelines with LangChain, and deployed LLM-powered applications.
+- **AI Agent Developer Intern**, Orange Digital Center Egypt (Jul 2026): built LLM-powered agents, prompt engineering, API/tool integrations, and RAG over custom knowledge bases.
+- **Data Science Intern**, Archrete Engineering Consultancy (Jun 2023 – Aug 2023): data cleaning, EDA, feature engineering, and model evaluation.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Ames Housing Price Prediction** | Built ML pipeline for 2,900+ records & 80+ features. Improved accuracy by 18% & reduced RMSE by 22% using ensemble methods + GridSearchCV. | `Scikit-learn` `Pandas` `Matplotlib` |
-| **Dry Beans Classification** | Achieved **91.8% accuracy** using Random Forest on 13,611 samples. Applied feature selection and hyperparameter tuning. | `Scikit-learn` `Seaborn` |
-| **AI E‑commerce Platform** | Full‑stack platform with TF‑IDF & cosine similarity recommendation engine (+35% relevance). User behavior tracking, Flask backend, MySQL. Reduced response time by 15%. | `Flask` `MySQL` `scikit-learn` |
-
----
-
-### 💼 Work Experience  
-
-**Data Science Intern** – Archrete Engineering Consultancy *(Jun 2023 – Aug 2023)*  
-- Data cleaning, EDA, and feature engineering using Pandas/NumPy  
-- Applied ML models and evaluation under supervision  
-- Supported data pipelines and database operations  
-
----
-
-### 🎓 Education & Certifications  
-
-- **B.Sc. in Computer Science (Data Science Major)** – CIC Canadian International College *(2020 – 2025)* – Graduation Project: **Excellent**  
-- **AI & Machine Learning Intensive** (120+ hrs) – CLS Learning Solutions  
-- **Machine Learning Algorithms A‑Z** – 365 Data Science  
-- **Web Design Certificate** – National Telecommunication Institute  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### 📈 GitHub Performance  
+**[AI Document Intelligence Platform](https://github.com/mohamedhazem14/ai-document-intelligence-platform)**
+A fully local RAG app to chat with PDF, DOCX, TXT, and CSV files, with source citations, executive summaries, and auto-generated quizzes. Built with LangChain, FAISS, Sentence Transformers, and Mistral via Ollama, with a Streamlit interface. *(LangChain, FAISS, Ollama, Streamlit)*
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedhazem&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhazem&theme=react&hide_border=true&background=0D1117" width="49%" />
+**[Ames Housing Price Prediction](https://github.com/mohamedhazem14/Ames-Housing-Price-Prediction)**
+End-to-end ML pipeline on 80+ features with feature engineering, ensemble models, and stacking regression. Reached R² = 0.91 and RMSE = 0.129. *(Scikit-learn, Pandas, Matplotlib)*
 
-</div>
+**[Dry Beans Classification](https://github.com/mohamedhazem14/dry-beans-classification)**
+Random Forest classifier with 91.8% accuracy on 13,611 samples, using feature selection and hyperparameter tuning. *(Scikit-learn, Seaborn)*
 
----
+**[SMS Spam Detection](https://github.com/mohamedhazem14/SMS-Spam-Detection)**
+NLP spam/ham classifier using NLTK preprocessing and TF-IDF, comparing Naive Bayes, Logistic Regression, and Linear SVM. *(NLTK, Scikit-learn)*
 
-<div align="center">
-
-### 📬 Connect With Me  
-
-<a href="https://www.linkedin.com/in/mohamed-hazem-74001a2b6/" target="_blank">
-<img width="115" alt="image" src="https://github.com/user-attachments/assets/90b623f8-6b96-4c9e-9c2c-4a69563dca4b" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedhazemeltaweel@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/mohamedhazem14" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://wa.me/201148943436" target="_blank">
-  <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
+**[Artisan Marketplace](https://github.com/mohamedhazem14/Artisan-Marketplace)** (graduation project)
+Full-stack e-commerce platform for artisans with role-based access, dashboards, and a TF-IDF + cosine similarity recommendation system. *(Flask, MySQL, Scikit-learn)*
 
 ---
 
-<p align="center" style="color:#9E9E9E; font-size:14px;">
-  ⭐ <em>“Data is the new science – AI gives it meaning.”</em>
-</p>
+## 🎓 Education & Certifications
 
-</div>
+- B.Sc. Computer Science (Data Science Major), Canadian International College (CIC), 2020 – 2025. Graduation project: Excellent
+- AI Agent Developer (30 hours, Grade 97%), Orange Digital Center Egypt, Jul 2026
+- AI & Machine Learning Intensive (120+ hours), CLS Learning Solutions
+- Machine Learning Algorithms A-Z, 365 Data Science
+- Web Design Certificate, National Telecommunication Institute (NTI)
+
+---
+
+## 📈 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedhazem14&show_icons=true&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hazem-74001a2b6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhazemeltaweel@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201148943436)
+
+*Data is the new science. AI gives it meaning.*
